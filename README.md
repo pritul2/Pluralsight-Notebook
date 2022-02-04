@@ -10,4 +10,10 @@ Using pandas pdml [Undersampling and SMOTE over sampling]
 Using sklearn resampling    
   
 3. Dataset scaling    
-Standard Scaler, Bessel Correction, Robust Scaler, Normalization, Binarizer, Max Abs Scaler, Min-Max Scaler, Power Transformer, Quantile Transformer
+Standard Scaler, Bessel Correction, Robust Scaler, Normalization, Binarizer, Max Abs Scaler, Min-Max Scaler, Power Transformer, Quantile Transformer  
+
+4. Ordinal (Categorical) Data Encoding  
+i. Label Encoder  
+ii. One hot encoder   
+iii. Label Binarizer   
+iv. Multi Label Binarizer  
