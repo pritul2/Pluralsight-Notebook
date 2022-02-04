@@ -17,3 +17,8 @@ i. Label Encoder
 ii. One hot encoder   
 iii. Label Binarizer   
 iv. Multi Label Binarizer  
+  
+5. Regression Analysis on Ordinal Data
+i. Contrast Coding  
+ii. Backward diff coding  
+iii. Helmert Coding  
