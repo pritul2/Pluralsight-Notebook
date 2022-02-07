@@ -30,3 +30,17 @@ iii. ANOVA
 iv Dictionary learning  
 v. PCA  
 
+7. Feature selection or Dimensionality reduction (Part 2)
+i. LDA  
+ii. Manifold Learning  
+  I Multidimension Scaling [Metric / Non Metric based]  
+  II Isomap  
+  III Locally Linear Embedding  
+  	(i) Spectral Embedding  
+  	(ii) TSNE  
+  	(iii) Kernel PCA  
+  	(iv) Hessian LLE
+  	(v) Kernel PCA  
+    
+    
+
