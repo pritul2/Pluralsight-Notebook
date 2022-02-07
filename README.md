@@ -44,3 +44,6 @@ ii. Manifold Learning
     
     
 
+8. Feature selection or dimensionality reduction (Part 3)  
+i. Model Stacking  
+ii. AutoEncoder  
