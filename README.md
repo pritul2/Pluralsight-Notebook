@@ -4,6 +4,7 @@
 Handling duplicate values --> df.duplicate()  
 Handling Null values --> Fill specific, Forward fill , Backward Fill, desc stats, regression based interpolation    
 Handling outliers --> Box plot + IQR  
+Multicollinearity --> Pearson Coefficient , Variance Inflation  
 
 2. Data Imbalancing [Oversampling and Undersampling]      
 Using pandas pdml [Undersampling and SMOTE over sampling]    
