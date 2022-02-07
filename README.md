@@ -22,3 +22,11 @@ iv. Multi Label Binarizer
 i. Contrast Coding  
 ii. Backward diff coding  
 iii. Helmert Coding  
+
+6. Feature selection or Dimensionality reduction (Part 1)   
+i. Variance Thresholding  
+ii. Chi2  
+iii. ANOVA  
+iv Dictionary learning  
+v. PCA  
+
