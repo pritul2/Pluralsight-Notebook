@@ -49,7 +49,7 @@ ii. Manifold Learning
 i. Model Stacking  
 ii. AutoEncoder  
 
-9. Machine learning models
+9. Machine learning models  
 i. Regression  
 ii. Classification  
 iii. Clustering  
