@@ -33,14 +33,14 @@ v. PCA
 7. Feature selection or Dimensionality reduction (Part 2)
 i. LDA  
 ii. Manifold Learning  
-  I Multidimension Scaling [Metric / Non Metric based]  
-  II Isomap  
-  III Locally Linear Embedding  
-  	(i) Spectral Embedding  
-  	(ii) TSNE  
-  	(iii) Kernel PCA  
-  	(iv) Hessian LLE
-  	(v) Kernel PCA  
+<t>  I Multidimension Scaling [Metric / Non Metric based]  </t>   
+  <t> II Isomap  </t>   
+  <t> III Locally Linear Embedding  </t>    
+  	<t> <t>  (i) Spectral Embedding  </t></t>   
+  	<t>  <t> (ii) TSNE  </t></t>    
+  	<t>  <t> (iii) Kernel PCA  </t></t>    
+  	<t> <t> (iv) Hessian LLE </t></t>   
+  	<t> <t> (v) Kernel PCA  </t></t>   
     
     
 
