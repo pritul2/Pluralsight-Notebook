@@ -53,3 +53,8 @@ ii. AutoEncoder
 i. Regression  
 ii. Classification  
 iii. Clustering  
+
+10. Ensemble Learning   
+i. Voting classifier  
+ii. Bagging and bootstraping  
+iii. Gradient Boosting  
